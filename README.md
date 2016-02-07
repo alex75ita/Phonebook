@@ -9,3 +9,7 @@ Personal phonebook
 
 # Note
 Use a "demo" file with dummy names and phone numbers.
+
+# References
+Example for the Entry: https://github.com/ibmcontest/phonebook/blob/master/src/com/ibmcloud/contest/phonebook/PhonebookEntry.java
+
